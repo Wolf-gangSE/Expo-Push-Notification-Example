@@ -25,10 +25,10 @@ A [ferramenta de notificação por push do Expo](https://expo.dev/notifications)
 
 # 🚀 Axios
 
-O diretório *HttpNotification* possui um exemplo simples de uma requisição para enviar notificações utilizando o Axios. Para rodar digite na linha de comando: 
+O diretório *HttpNotification* possui um exemplo simples de uma requisição para enviar notificações utilizando o Axios. Para rodar digite, na linha de comando: 
 ```sh
 # abre o diretório
-$ cd HttpNotificatiob
+$ cd HttpNotification
 
 # realiza a requisição
 $ npm npm init --y

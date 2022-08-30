@@ -30,8 +30,11 @@ O diretório *HttpNotification* possui um exemplo simples de uma requisição pa
 # abre o diretório
 $ cd HttpNotification
 
-# realiza a requisição
-$ npm npm init --y
+# instala dependecias
+$ npm install
+
+# executa requisição
+$ node index.js
 ```
 
 # Deixe uma ⭐️ se gostou deste projeto!

@@ -1,6 +1,6 @@
 <h1 align="center"> 🔔 Expo Push Notification </h1>
 
-> 🔔 Esse repositório abriga exemplos simples da utilização do Expo Notification e pode ser utilizada como ponto de partida para desenvolvimento de aplicações completas que precisem utilizar o recurso de notificações disponibilizado pelo Expo.
+> 🔔 Esse repositório abriga exemplos simples da utilização do Expo Notification e pode ser utilizado como ponto de partida para o desenvolvimento de aplicações completas que precisem utilizar esse recurso.
 
 
 # 📱 Expo app
@@ -19,7 +19,7 @@ $ yarn ou npm install
 $ expo start
 ```
 
-Após isso, é preciso abrir ter o aplicativo [Expo Go](https://expo.dev/client) instalado em seu dispositivo móvel, executá-lo e apontar a câmera para o QR Code gerado. Assim for acessado, ele exibirá seu Push Token.
+Após isso, é preciso abrir ter o aplicativo [Expo Go](https://expo.dev/client) instalado em seu dispositivo móvel, executá-lo e apontar a câmera para o QR Code gerado. Assim que for acessado, ele exibirá seu Push Token.
 
 A [ferramenta de notificação por push do Expo](https://expo.dev/notifications) pode ser utilizada para testar as notificações. Ela permite que você envie facilmente notificações de teste para seu dispositivo, sem precisar usar sua CLI ou escrever um servidor de teste.
 
